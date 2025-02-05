@@ -1,0 +1,1 @@
+bare metal programming : writing program without os( operating system ) that program is called bare metal programming
